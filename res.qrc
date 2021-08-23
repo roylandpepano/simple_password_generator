@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/facebook_96px.png</file>
+    <file>icons/Instagram logo_96px.png</file>
+    <file>icons/close_window_96px.png</file>
+    <file>icons/info_96px.png</file>
+    <file>icons/lock_error_48px.png</file>
+    <file>icons/minimize_window_96px.png</file>
+  </qresource>
+</RCC>
